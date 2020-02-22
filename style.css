@@ -46,3 +46,31 @@ section{
     font-weight: bold;
     
 }
+
+.single-xp{
+    box-shadow: 10px 10px 40px;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+}
+
+.xp-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack{
+    border-left:7px solid;
+    border-image: linear-gradient(180deg,lightSalmon, tomato);
+    border-image-slice:1;
+}
+
+#learning-xp{
+    border-left:7px solid;
+    border-image:linear-gradient(180deg,blue,skyblue);
+    border-image-slice:1;
+}
+footer p{
+    text-align: center;
+}
